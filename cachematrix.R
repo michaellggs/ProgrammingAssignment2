@@ -69,5 +69,3 @@ cacheSolve <- function(x, ...) {
         x$setinv(computedInverse)
         invisible(computedInverse)
 }
-
-
